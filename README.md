@@ -57,3 +57,7 @@ On OS X this can be accomplished by installing the `coreutils` package:
 
 
 [plaintext Life file]: http://www.conwaylife.com/wiki/Plaintext
+
+Disclaimer
+==========
+Original author Bryan Davis (https://github.com/public-contributions/HACK).
