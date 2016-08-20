@@ -60,4 +60,4 @@ On OS X this can be accomplished by installing the `coreutils` package:
 
 Disclaimer
 ==========
-Original author Bryan Davis (https://github.com/public-contributions/HACK).
+Original author Bryan Davis (https://github.com/bd808/profile-life).
